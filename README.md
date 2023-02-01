@@ -2,11 +2,11 @@
 We propose a machine based on deep learning and an embedded system to collect and sort trash in real-time. This machine aims to segregate plastic bottles and paper using image recognition with a convolutional neural network model implemented in Raspberry Pi. 
 
 ## Machine composition
-The machine is composed of electronic component box and two parts. The upper part is the processing, which includes object detection, identification, and classification. The lower part contains the containers, one for paper and the other for plastic. 
+The machine is composed of electronic component box and two parts. The upper part is the processing, which includes object detection, identification, and classification. The lower part contains the containers, one for paper and the other for plastic.   
 ![image](https://user-images.githubusercontent.com/25481084/216020859-f6b10155-80cf-44ac-bd7a-ed1cfa4f3a0d.png)
 
 ### Electronic component box
-We have set up this box to protect the electronic components that we have used: Raspberry Pi, Pi Camera, and servomotors.
+We have set up this box to protect the electronic components that we have used: Raspberry Pi, Pi Camera, and servomotors.  
 ![image](https://user-images.githubusercontent.com/25481084/216021733-c2270364-013e-4fc4-ba5e-1821a93c839f.png)
 ### The upper part of the machine
 •	Window  
