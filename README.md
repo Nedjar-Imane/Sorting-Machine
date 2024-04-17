@@ -1,4 +1,4 @@
-# Real-time Plastic Bottles And Paper Sorting Machine Based On Deep Learning For Environmental Protection
+# Real-Time Solid Waste Sorting Machine Based on Deep Learning
 We propose a machine based on deep learning and an embedded system to collect and sort trash in real-time. This machine aims to segregate plastic bottles and paper using image recognition with a convolutional neural network model implemented in Raspberry Pi. 
 
 ## Machine composition
